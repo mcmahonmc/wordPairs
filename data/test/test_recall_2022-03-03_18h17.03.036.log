@@ -1,0 +1,298 @@
+1.8770 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.7182 	INFO 	Loaded monitor calibration from ['2022_03_03 18:06']
+9.4273 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f9b29a4a4f0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9b2a87d5b0>, multiSample=False, name='window1', numSamples=2, pos=(0, 53), screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.4276 	EXP 	window1: mouseVisible = True
+9.4276 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.4276 	EXP 	window1: recordFrameIntervals = False
+9.5935 	EXP 	window1: recordFrameIntervals = True
+9.7772 	EXP 	Screen (0) actual frame rate measured at 59.95Hz
+9.7773 	EXP 	window1: recordFrameIntervals = False
+9.8392 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+12.5392 	INFO 	keyboard.Keyboard is using iohub backend.
+12.6565 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.6591 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+12.6610 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_6', opacity=1, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+12.6674 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_7', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+12.6674 	INFO 	keyboard.Keyboard is using iohub backend.
+12.6696 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0, pos=array([0. , 0.7]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+12.6715 	EXP 	Created text_11 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_11', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+12.6755 	EXP 	Created text_12 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_12', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+12.6756 	INFO 	keyboard.Keyboard is using iohub backend.
+12.6867 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='All done, great job!', units='norm', win=Window(...), wrapWidth=1)
+12.6968 	EXP 	text_2: autoDraw = True
+22.4459 	DATA 	Keypress: space
+22.6939 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+22.6943 	EXP 	New trial (rep=0, index=0): None
+22.7028 	DEBUG 	Read csv file with pandas: word_pairs.csv
+22.7074 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+22.7091 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+22.7097 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+22.7103 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'shopper'), ('word2', 'wallet')])
+22.7374 	EXP 	text_2: autoDraw = False
+22.7374 	EXP 	text_3: height = 0.3
+22.7374 	EXP 	text_3: height = 0.3
+22.7374 	EXP 	text_3: text = 'shopper'
+22.7374 	EXP 	text_6: height = 0.3
+22.7374 	EXP 	text_6: height = 0.3
+22.7374 	EXP 	text_6: text = 'wallet'
+22.7374 	EXP 	text_3: autoDraw = True
+25.8399 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'tennis'), ('word2', 'referee')])
+25.8570 	DATA 	Keypress: space
+25.8634 	EXP 	text_3: autoDraw = False
+25.8634 	EXP 	text_6: autoDraw = False
+25.8634 	EXP 	text_7: autoDraw = False
+25.8634 	EXP 	text_3: height = 0.3
+25.8634 	EXP 	text_3: height = 0.3
+25.8634 	EXP 	text_3: text = 'tennis'
+25.8634 	EXP 	text_6: height = 0.3
+25.8634 	EXP 	text_6: height = 0.3
+25.8634 	EXP 	text_6: text = 'referee'
+25.8634 	EXP 	text_3: autoDraw = True
+26.6591 	DATA 	Keypress: space
+26.6735 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'carrot'), ('word2', 'lettuce')])
+26.6917 	EXP 	text_3: autoDraw = False
+26.6917 	EXP 	text_6: autoDraw = False
+26.6917 	EXP 	text_7: autoDraw = False
+26.6917 	EXP 	text_3: height = 0.3
+26.6917 	EXP 	text_3: height = 0.3
+26.6917 	EXP 	text_3: text = 'carrot'
+26.6917 	EXP 	text_6: height = 0.3
+26.6917 	EXP 	text_6: height = 0.3
+26.6917 	EXP 	text_6: text = 'lettuce'
+26.6917 	EXP 	text_3: autoDraw = True
+28.6777 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'paddle'), ('word2', 'canoe')])
+28.6905 	DATA 	Keypress: space
+28.6967 	EXP 	text_3: autoDraw = False
+28.6967 	EXP 	text_6: autoDraw = False
+28.6967 	EXP 	text_7: autoDraw = False
+28.6967 	EXP 	text_3: height = 0.3
+28.6967 	EXP 	text_3: height = 0.3
+28.6967 	EXP 	text_3: text = 'paddle'
+28.6967 	EXP 	text_6: height = 0.3
+28.6967 	EXP 	text_6: height = 0.3
+28.6967 	EXP 	text_6: text = 'canoe'
+28.6967 	EXP 	text_3: autoDraw = True
+29.1330 	DATA 	Keypress: space
+29.1462 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'railroad'), ('word2', 'engine')])
+29.1640 	EXP 	text_3: autoDraw = False
+29.1640 	EXP 	text_6: autoDraw = False
+29.1640 	EXP 	text_7: autoDraw = False
+29.1640 	EXP 	text_3: height = 0.3
+29.1640 	EXP 	text_3: height = 0.3
+29.1640 	EXP 	text_3: text = 'railroad'
+29.1640 	EXP 	text_6: height = 0.3
+29.1640 	EXP 	text_6: height = 0.3
+29.1640 	EXP 	text_6: text = 'engine'
+29.1640 	EXP 	text_3: autoDraw = True
+29.6379 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+29.6401 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+29.6419 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+29.6425 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+29.6430 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'caimatizes'), ('letter_o', 0)])
+29.6587 	DATA 	Keypress: space
+29.6659 	EXP 	text_3: autoDraw = False
+29.6659 	EXP 	text_6: autoDraw = False
+29.6659 	EXP 	text_7: autoDraw = False
+29.6659 	EXP 	text_4: height = 0.1
+29.6659 	EXP 	text_4: height = 0.1
+29.6659 	EXP 	text_4: text = '*** O? ***'
+29.6659 	EXP 	text_11: height = 0.3
+29.6659 	EXP 	text_11: height = 0.3
+29.6659 	EXP 	text_11: text = 'caimatizes'
+29.6659 	EXP 	text_4: autoDraw = True
+29.6659 	EXP 	text_11: autoDraw = True
+31.6370 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'acterin'), ('letter_o', 0)])
+31.6449 	DATA 	Keypress: n
+31.6525 	EXP 	text_4: autoDraw = False
+31.6525 	EXP 	text_11: autoDraw = False
+31.6525 	EXP 	text_12: autoDraw = False
+31.6525 	EXP 	text_4: text = '*** O? ***'
+31.6525 	EXP 	text_11: height = 0.3
+31.6525 	EXP 	text_11: height = 0.3
+31.6525 	EXP 	text_11: text = 'acterin'
+31.6525 	EXP 	text_4: autoDraw = True
+31.6525 	EXP 	text_11: autoDraw = True
+32.5761 	DATA 	Keypress: n
+32.5881 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'huggle'), ('letter_o', 0)])
+32.6027 	EXP 	text_4: autoDraw = False
+32.6027 	EXP 	text_11: autoDraw = False
+32.6027 	EXP 	text_12: autoDraw = False
+32.6027 	EXP 	text_4: text = '*** O? ***'
+32.6027 	EXP 	text_11: height = 0.3
+32.6027 	EXP 	text_11: height = 0.3
+32.6027 	EXP 	text_11: text = 'huggle'
+32.6027 	EXP 	text_4: autoDraw = True
+32.6027 	EXP 	text_11: autoDraw = True
+34.5118 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'boycher'), ('letter_o', 1)])
+34.5236 	DATA 	Keypress: n
+34.5302 	EXP 	text_4: autoDraw = False
+34.5302 	EXP 	text_11: autoDraw = False
+34.5302 	EXP 	text_12: autoDraw = False
+34.5302 	EXP 	text_4: text = '*** O? ***'
+34.5302 	EXP 	text_11: height = 0.3
+34.5302 	EXP 	text_11: height = 0.3
+34.5302 	EXP 	text_11: text = 'boycher'
+34.5302 	EXP 	text_4: autoDraw = True
+34.5302 	EXP 	text_11: autoDraw = True
+35.6525 	DATA 	Keypress: y
+35.6638 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'untravents'), ('letter_o', 0)])
+35.6802 	EXP 	text_4: autoDraw = False
+35.6802 	EXP 	text_11: autoDraw = False
+35.6802 	EXP 	text_12: autoDraw = False
+35.6802 	EXP 	text_4: text = '*** O? ***'
+35.6802 	EXP 	text_11: height = 0.3
+35.6802 	EXP 	text_11: height = 0.3
+35.6802 	EXP 	text_11: text = 'untravents'
+35.6802 	EXP 	text_4: autoDraw = True
+35.6802 	EXP 	text_11: autoDraw = True
+37.0173 	EXP 	New trial (rep=1, index=0): None
+37.0197 	DEBUG 	Read csv file with pandas: word_pairs.csv
+37.0208 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+37.0215 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+37.0219 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+37.0222 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'paddle'), ('word2', 'canoe')])
+37.0335 	DATA 	Keypress: n
+37.0401 	EXP 	text_4: autoDraw = False
+37.0401 	EXP 	text_11: autoDraw = False
+37.0401 	EXP 	text_12: autoDraw = False
+37.0401 	EXP 	text_3: height = 0.3
+37.0401 	EXP 	text_3: height = 0.3
+37.0401 	EXP 	text_3: text = 'paddle'
+37.0401 	EXP 	text_6: height = 0.3
+37.0401 	EXP 	text_6: height = 0.3
+37.0401 	EXP 	text_6: text = 'canoe'
+37.0401 	EXP 	text_3: autoDraw = True
+38.0227 	DATA 	Keypress: n
+38.0373 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'carrot'), ('word2', 'lettuce')])
+38.0530 	EXP 	text_3: autoDraw = False
+38.0530 	EXP 	text_6: autoDraw = False
+38.0530 	EXP 	text_7: autoDraw = False
+38.0530 	EXP 	text_3: height = 0.3
+38.0530 	EXP 	text_3: height = 0.3
+38.0530 	EXP 	text_3: text = 'carrot'
+38.0530 	EXP 	text_6: height = 0.3
+38.0530 	EXP 	text_6: height = 0.3
+38.0530 	EXP 	text_6: text = 'lettuce'
+38.0530 	EXP 	text_3: autoDraw = True
+38.8220 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'tennis'), ('word2', 'referee')])
+38.8317 	DATA 	Keypress: y
+38.8392 	EXP 	text_3: autoDraw = False
+38.8392 	EXP 	text_6: autoDraw = False
+38.8392 	EXP 	text_7: autoDraw = False
+38.8392 	EXP 	text_3: height = 0.3
+38.8392 	EXP 	text_3: height = 0.3
+38.8392 	EXP 	text_3: text = 'tennis'
+38.8392 	EXP 	text_6: height = 0.3
+38.8392 	EXP 	text_6: height = 0.3
+38.8392 	EXP 	text_6: text = 'referee'
+38.8392 	EXP 	text_3: autoDraw = True
+39.4933 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'railroad'), ('word2', 'engine')])
+39.5071 	DATA 	Keypress: n
+39.5129 	EXP 	text_3: autoDraw = False
+39.5129 	EXP 	text_6: autoDraw = False
+39.5129 	EXP 	text_7: autoDraw = False
+39.5129 	EXP 	text_3: height = 0.3
+39.5129 	EXP 	text_3: height = 0.3
+39.5129 	EXP 	text_3: text = 'railroad'
+39.5129 	EXP 	text_6: height = 0.3
+39.5129 	EXP 	text_6: height = 0.3
+39.5129 	EXP 	text_6: text = 'engine'
+39.5129 	EXP 	text_3: autoDraw = True
+40.1931 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'helmet'), ('word2', 'hockey')])
+40.2073 	DATA 	Keypress: y
+40.2136 	EXP 	text_3: autoDraw = False
+40.2136 	EXP 	text_6: autoDraw = False
+40.2136 	EXP 	text_7: autoDraw = False
+40.2136 	EXP 	text_3: height = 0.3
+40.2136 	EXP 	text_3: height = 0.3
+40.2136 	EXP 	text_3: text = 'helmet'
+40.2136 	EXP 	text_6: height = 0.3
+40.2136 	EXP 	text_6: height = 0.3
+40.2136 	EXP 	text_6: text = 'hockey'
+40.2136 	EXP 	text_3: autoDraw = True
+40.8478 	DATA 	Keypress: n
+40.8632 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+40.8643 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+40.8652 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+40.8656 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+40.8659 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'thwided'), ('letter_o', 0)])
+40.8799 	EXP 	text_3: autoDraw = False
+40.8799 	EXP 	text_6: autoDraw = False
+40.8799 	EXP 	text_7: autoDraw = False
+40.8799 	EXP 	text_4: text = '*** O? ***'
+40.8799 	EXP 	text_11: height = 0.3
+40.8799 	EXP 	text_11: height = 0.3
+40.8799 	EXP 	text_11: text = 'thwided'
+40.8799 	EXP 	text_4: autoDraw = True
+40.8799 	EXP 	text_11: autoDraw = True
+42.2173 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'geshlamp'), ('letter_o', 0)])
+42.2275 	DATA 	Keypress: n
+42.2342 	EXP 	text_4: autoDraw = False
+42.2342 	EXP 	text_11: autoDraw = False
+42.2342 	EXP 	text_12: autoDraw = False
+42.2342 	EXP 	text_4: text = '*** O? ***'
+42.2342 	EXP 	text_11: height = 0.3
+42.2342 	EXP 	text_11: height = 0.3
+42.2342 	EXP 	text_11: text = 'geshlamp'
+42.2342 	EXP 	text_4: autoDraw = True
+42.2342 	EXP 	text_11: autoDraw = True
+43.3569 	DATA 	Keypress: n
+43.3673 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'phonalle'), ('letter_o', 1)])
+43.3822 	EXP 	text_4: autoDraw = False
+43.3822 	EXP 	text_11: autoDraw = False
+43.3822 	EXP 	text_12: autoDraw = False
+43.3822 	EXP 	text_4: text = '*** O? ***'
+43.3822 	EXP 	text_11: height = 0.3
+43.3822 	EXP 	text_11: height = 0.3
+43.3822 	EXP 	text_11: text = 'phonalle'
+43.3822 	EXP 	text_4: autoDraw = True
+43.3822 	EXP 	text_11: autoDraw = True
+44.3567 	DATA 	Keypress: y
+44.3700 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'kastat'), ('letter_o', 0)])
+44.3843 	EXP 	text_4: autoDraw = False
+44.3843 	EXP 	text_11: autoDraw = False
+44.3843 	EXP 	text_12: autoDraw = False
+44.3843 	EXP 	text_4: text = '*** O? ***'
+44.3843 	EXP 	text_11: height = 0.3
+44.3843 	EXP 	text_11: height = 0.3
+44.3843 	EXP 	text_11: text = 'kastat'
+44.3843 	EXP 	text_4: autoDraw = True
+44.3843 	EXP 	text_11: autoDraw = True
+45.0734 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'grundrow'), ('letter_o', 1)])
+45.0848 	DATA 	Keypress: n
+45.0912 	EXP 	text_4: autoDraw = False
+45.0912 	EXP 	text_11: autoDraw = False
+45.0912 	EXP 	text_12: autoDraw = False
+45.0912 	EXP 	text_4: text = '*** O? ***'
+45.0912 	EXP 	text_11: height = 0.3
+45.0912 	EXP 	text_11: height = 0.3
+45.0912 	EXP 	text_11: text = 'grundrow'
+45.0912 	EXP 	text_4: autoDraw = True
+45.0912 	EXP 	text_11: autoDraw = True
+46.4937 	EXP 	New trial (rep=2, index=0): None
+46.4963 	DEBUG 	Read csv file with pandas: word_pairs.csv
+46.4973 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+46.4981 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+46.4985 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+46.4988 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'cabin'), ('word2', 'timber')])
+46.5101 	DATA 	Keypress: y
+46.5165 	EXP 	text_4: autoDraw = False
+46.5165 	EXP 	text_11: autoDraw = False
+46.5165 	EXP 	text_12: autoDraw = False
+46.5165 	EXP 	text_3: height = 0.3
+46.5165 	EXP 	text_3: height = 0.3
+46.5165 	EXP 	text_3: text = 'cabin'
+46.5165 	EXP 	text_6: height = 0.3
+46.5165 	EXP 	text_6: height = 0.3
+46.5165 	EXP 	text_6: text = 'timber'
+46.5165 	EXP 	text_3: autoDraw = True
+50.5178 	EXP 	text_6: autoDraw = True
+52.0214 	EXP 	text_3: autoDraw = False
+52.0214 	EXP 	text_6: autoDraw = False
+52.0214 	EXP 	text_7: autoDraw = True
+52.5237 	EXP 	text_7: autoDraw = False
+67.5161 	DATA 	Keypress: escape
+68.2840 	EXP 	window1: mouseVisible = True
+68.2842 	DEBUG 	Saving data for recall ExperimentHandler
+68.2898 	INFO 	saved data to /Volumes/G-DRIVE/word_pair_task/data/test/test_recall_2022-03-03_18h17.03.036.psydat
+68.2922 	INFO 	saved data to '/Volumes/G-DRIVE/word_pair_task/data/test/test_recall_2022-03-03_18h17.03.036.csv'

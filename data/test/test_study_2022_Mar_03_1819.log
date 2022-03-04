@@ -1,0 +1,150 @@
+1.0088 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+6.3293 	INFO 	Loaded monitor calibration from ['2022_03_03 18:06']
+7.0731 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f970086f280>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9700b9c850>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0734 	EXP 	window1: mouseVisible = True
+7.0734 	EXP 	window1: recordFrameIntervals = False
+7.2387 	EXP 	window1: recordFrameIntervals = True
+7.4234 	DEBUG 	Screen (0) actual frame rate measured at 59.55
+7.4235 	EXP 	window1: recordFrameIntervals = False
+7.7813 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+7.9786 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+7.9817 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+8.1854 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+8.3735 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+8.3763 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+8.3814 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+8.3895 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Good job!', units='norm', win=Window(...), wrapWidth=1)
+8.5869 	EXP 	text: autoDraw = True
+10.2669 	DEBUG 	Read csv file with pandas: word_pairs.csv
+10.2686 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+10.2694 	EXP 	Imported word_pairs.csv as conditions, 10 conditions, 2 params
+10.2700 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+10.2703 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'tennis'), ('word2', 'referee')])
+10.2850 	DATA 	Keypress: space
+10.2915 	EXP 	text: autoDraw = False
+10.2915 	EXP 	text_2: text = 'tennis'
+10.2915 	EXP 	text_3: text = 'referee'
+10.2915 	EXP 	text_2: autoDraw = True
+10.2915 	EXP 	text_3: autoDraw = True
+11.3687 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'shopper'), ('word2', 'wallet')])
+11.3848 	DATA 	Keypress: space
+11.3924 	EXP 	text_2: autoDraw = False
+11.3924 	EXP 	text_3: autoDraw = False
+11.3924 	EXP 	text_2: text = 'shopper'
+11.3924 	EXP 	text_3: text = 'wallet'
+11.3924 	EXP 	text_2: autoDraw = True
+11.3924 	EXP 	text_3: autoDraw = True
+12.0023 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'railroad'), ('word2', 'engine')])
+12.0112 	DATA 	Keypress: space
+12.0198 	EXP 	text_2: autoDraw = False
+12.0198 	EXP 	text_3: autoDraw = False
+12.0198 	EXP 	text_2: text = 'railroad'
+12.0198 	EXP 	text_3: text = 'engine'
+12.0198 	EXP 	text_2: autoDraw = True
+12.0198 	EXP 	text_3: autoDraw = True
+12.5687 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'cactus'), ('word2', 'canyon')])
+12.5792 	DATA 	Keypress: space
+12.5876 	EXP 	text_2: autoDraw = False
+12.5876 	EXP 	text_3: autoDraw = False
+12.5876 	EXP 	text_2: text = 'cactus'
+12.5876 	EXP 	text_3: text = 'canyon'
+12.5876 	EXP 	text_2: autoDraw = True
+12.5876 	EXP 	text_3: autoDraw = True
+13.0386 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'cabin'), ('word2', 'timber')])
+13.0489 	DATA 	Keypress: space
+13.0570 	EXP 	text_2: autoDraw = False
+13.0570 	EXP 	text_3: autoDraw = False
+13.0570 	EXP 	text_2: text = 'cabin'
+13.0570 	EXP 	text_3: text = 'timber'
+13.0570 	EXP 	text_2: autoDraw = True
+13.0570 	EXP 	text_3: autoDraw = True
+13.4396 	EXP 	New trial (rep=0, index=5): OrderedDict([('word1', 'paddle'), ('word2', 'canoe')])
+13.4486 	DATA 	Keypress: space
+13.4572 	EXP 	text_2: autoDraw = False
+13.4572 	EXP 	text_3: autoDraw = False
+13.4572 	EXP 	text_2: text = 'paddle'
+13.4572 	EXP 	text_3: text = 'canoe'
+13.4572 	EXP 	text_2: autoDraw = True
+13.4572 	EXP 	text_3: autoDraw = True
+13.8076 	EXP 	New trial (rep=0, index=6): OrderedDict([('word1', 'postcard'), ('word2', 'luggage')])
+13.8204 	DATA 	Keypress: space
+13.8278 	EXP 	text_2: autoDraw = False
+13.8278 	EXP 	text_3: autoDraw = False
+13.8278 	EXP 	text_2: text = 'postcard'
+13.8278 	EXP 	text_3: text = 'luggage'
+13.8278 	EXP 	text_2: autoDraw = True
+13.8278 	EXP 	text_3: autoDraw = True
+14.1752 	EXP 	New trial (rep=0, index=7): OrderedDict([('word1', 'carrot'), ('word2', 'lettuce')])
+14.1828 	DATA 	Keypress: space
+14.1910 	EXP 	text_2: autoDraw = False
+14.1910 	EXP 	text_3: autoDraw = False
+14.1910 	EXP 	text_2: text = 'carrot'
+14.1910 	EXP 	text_3: text = 'lettuce'
+14.1910 	EXP 	text_2: autoDraw = True
+14.1910 	EXP 	text_3: autoDraw = True
+14.5439 	EXP 	New trial (rep=0, index=8): OrderedDict([('word1', 'helmet'), ('word2', 'hockey')])
+14.5585 	DATA 	Keypress: space
+14.5639 	EXP 	text_2: autoDraw = False
+14.5639 	EXP 	text_3: autoDraw = False
+14.5639 	EXP 	text_2: text = 'helmet'
+14.5639 	EXP 	text_3: text = 'hockey'
+14.5639 	EXP 	text_2: autoDraw = True
+14.5639 	EXP 	text_3: autoDraw = True
+14.8929 	EXP 	New trial (rep=0, index=9): OrderedDict([('word1', 'lotion'), ('word2', 'motel')])
+14.9006 	DATA 	Keypress: space
+14.9091 	EXP 	text_2: autoDraw = False
+14.9091 	EXP 	text_3: autoDraw = False
+14.9091 	EXP 	text_2: text = 'lotion'
+14.9091 	EXP 	text_3: text = 'motel'
+14.9091 	EXP 	text_2: autoDraw = True
+14.9091 	EXP 	text_3: autoDraw = True
+15.2962 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+15.2967 	EXP 	New trial (rep=0, index=0): None
+15.2989 	DATA 	Keypress: space
+15.3099 	EXP 	text_2: autoDraw = False
+15.3099 	EXP 	text_3: autoDraw = False
+15.3099 	EXP 	text_7: autoDraw = True
+18.6904 	DEBUG 	Read csv file with pandas: word_pairs.csv
+18.6917 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+18.6923 	EXP 	Imported word_pairs.csv as conditions, 10 conditions, 2 params
+18.6926 	EXP 	Created sequence: sequential, trialTypes=10, nReps=1, seed=None
+18.6929 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'postcard'), ('word2', 'luggage')])
+18.7017 	DATA 	Keypress: space
+18.7091 	EXP 	text_7: autoDraw = False
+18.7091 	EXP 	text_6: text = 'postcard'
+18.7091 	EXP 	text_8: text = 'luggage'
+18.7091 	EXP 	text_6: autoDraw = True
+21.8802 	DATA 	Keypress: space
+22.6967 	EXP 	text_8: autoDraw = True
+23.4023 	DATA 	Keypress: space
+24.7024 	EXP 	text_8: autoDraw = False
+24.7024 	EXP 	text_9: autoDraw = True
+24.7185 	EXP 	text_6: autoDraw = False
+25.1877 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'helmet'), ('word2', 'hockey')])
+25.1988 	DATA 	Keypress: space
+25.2061 	EXP 	text_9: autoDraw = False
+25.2061 	EXP 	text_6: autoDraw = False
+25.2061 	EXP 	text_8: autoDraw = False
+25.2061 	EXP 	text_9: autoDraw = False
+25.2061 	EXP 	text_6: text = 'helmet'
+25.2061 	EXP 	text_8: text = 'hockey'
+25.2061 	EXP 	text_6: autoDraw = True
+26.5781 	DATA 	Keypress: space
+28.1969 	DATA 	Keypress: space
+29.1976 	EXP 	text_8: autoDraw = True
+30.2375 	DATA 	Keypress: space
+31.2032 	EXP 	text_8: autoDraw = False
+31.2032 	EXP 	text_9: autoDraw = True
+31.2196 	EXP 	text_6: autoDraw = False
+31.6890 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'lotion'), ('word2', 'motel')])
+31.7065 	EXP 	text_6: autoDraw = False
+31.7065 	EXP 	text_8: autoDraw = False
+31.7065 	EXP 	text_9: autoDraw = False
+31.7065 	EXP 	text_6: text = 'lotion'
+31.7065 	EXP 	text_8: text = 'motel'
+31.7065 	EXP 	text_6: autoDraw = True
+32.7754 	DATA 	Keypress: escape
+32.8800 	EXP 	window1: mouseVisible = True
+32.8801 	DEBUG 	Saving data for study ExperimentHandler
+33.2686 	INFO 	saved data to /Volumes/G-DRIVE/word_pair_task/data/test/test_study_2022_Mar_03_1819.psydat
+33.2715 	INFO 	saved data to '/Volumes/G-DRIVE/word_pair_task/data/test/test_study_2022_Mar_03_1819.csv'

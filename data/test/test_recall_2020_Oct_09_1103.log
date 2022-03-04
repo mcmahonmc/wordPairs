@@ -1,0 +1,665 @@
+11.2784 	INFO 	Loaded monitor calibration from ['2020_02_17 13:58']
+12.1035 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x140527940>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1400325c0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.1042 	EXP 	window1: mouseVisible = True
+12.1043 	EXP 	window1: recordFrameIntervals = False
+12.2670 	EXP 	window1: recordFrameIntervals = True
+12.4515 	DEBUG 	Screen (0) actual frame rate measured at 59.84
+12.4516 	EXP 	window1: recordFrameIntervals = False
+12.8501 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+12.8621 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.8653 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.8688 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+12.8740 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([0. , 0.7]), rgb=array([255.,   0.,   0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.8787 	EXP 	Created text_11 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_11', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+12.8814 	EXP 	Created text_12 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, languageStyle='LTR', name='text_12', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+12.8914 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='All done, great job!', units='norm', win=Window(...), wrapWidth=1)
+12.9193 	EXP 	text_2: autoDraw = True
+21.7963 	DATA 	Keypress: space
+22.8978 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+22.8987 	EXP 	New trial (rep=0, index=0): None
+22.9109 	DEBUG 	Read csv file with pandas: word_pairs.csv
+22.9138 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+22.9147 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+22.9150 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+22.9153 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'tractor'), ('word2', 'luggage')])
+22.9474 	EXP 	text_2: autoDraw = False
+22.9474 	EXP 	text_3: text = 'tractor'
+22.9474 	EXP 	text_6: text = 'luggage'
+22.9474 	EXP 	text_3: autoDraw = True
+26.9228 	EXP 	text_6: autoDraw = True
+28.4277 	EXP 	text_6: autoDraw = False
+28.4277 	EXP 	text_7: autoDraw = True
+28.4614 	EXP 	text_3: autoDraw = False
+28.8988 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'cabin'), ('word2', 'doorway')])
+28.9305 	EXP 	text_3: autoDraw = False
+28.9305 	EXP 	text_6: autoDraw = False
+28.9305 	EXP 	text_7: autoDraw = False
+28.9305 	EXP 	text_3: text = 'cabin'
+28.9305 	EXP 	text_6: text = 'doorway'
+28.9305 	EXP 	text_3: autoDraw = True
+32.9056 	EXP 	text_6: autoDraw = True
+34.4095 	EXP 	text_6: autoDraw = False
+34.4095 	EXP 	text_7: autoDraw = True
+34.4430 	EXP 	text_3: autoDraw = False
+34.8975 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'lotion'), ('word2', 'motel')])
+34.9285 	EXP 	text_3: autoDraw = False
+34.9285 	EXP 	text_6: autoDraw = False
+34.9285 	EXP 	text_7: autoDraw = False
+34.9285 	EXP 	text_3: text = 'lotion'
+34.9285 	EXP 	text_6: text = 'motel'
+34.9285 	EXP 	text_3: autoDraw = True
+38.9047 	EXP 	text_6: autoDraw = True
+40.4100 	EXP 	text_6: autoDraw = False
+40.4100 	EXP 	text_7: autoDraw = True
+40.4435 	EXP 	text_3: autoDraw = False
+40.8957 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'cabinet'), ('word2', 'password')])
+40.9283 	EXP 	text_3: autoDraw = False
+40.9283 	EXP 	text_6: autoDraw = False
+40.9283 	EXP 	text_7: autoDraw = False
+40.9283 	EXP 	text_3: text = 'cabinet'
+40.9283 	EXP 	text_6: text = 'password'
+40.9283 	EXP 	text_3: autoDraw = True
+44.9209 	EXP 	text_6: autoDraw = True
+46.4086 	EXP 	text_7: autoDraw = True
+46.4253 	EXP 	text_6: autoDraw = False
+46.4419 	EXP 	text_3: autoDraw = False
+46.8949 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'railroad'), ('word2', 'leather')])
+46.9276 	EXP 	text_3: autoDraw = False
+46.9276 	EXP 	text_6: autoDraw = False
+46.9276 	EXP 	text_7: autoDraw = False
+46.9276 	EXP 	text_3: text = 'railroad'
+46.9276 	EXP 	text_6: text = 'leather'
+46.9276 	EXP 	text_3: autoDraw = True
+50.9036 	EXP 	text_6: autoDraw = True
+52.4082 	EXP 	text_6: autoDraw = False
+52.4082 	EXP 	text_7: autoDraw = True
+52.4416 	EXP 	text_3: autoDraw = False
+52.9002 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+52.9070 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+52.9100 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+52.9104 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+52.9107 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'aeroporthd'), ('letter_o', 1)])
+52.9273 	EXP 	text_3: autoDraw = False
+52.9273 	EXP 	text_6: autoDraw = False
+52.9273 	EXP 	text_7: autoDraw = False
+52.9273 	EXP 	text_4: text = '*** O? ***'
+52.9273 	EXP 	text_11: text = 'aeroporthd'
+52.9273 	EXP 	text_4: autoDraw = True
+52.9273 	EXP 	text_11: autoDraw = True
+58.4082 	EXP 	text_12: autoDraw = True
+58.4417 	EXP 	text_4: autoDraw = False
+58.4417 	EXP 	text_11: autoDraw = False
+58.8956 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'acterin'), ('letter_o', 0)])
+58.9266 	EXP 	text_4: autoDraw = False
+58.9266 	EXP 	text_11: autoDraw = False
+58.9266 	EXP 	text_12: autoDraw = False
+58.9266 	EXP 	text_4: text = '*** O? ***'
+58.9266 	EXP 	text_11: text = 'acterin'
+58.9266 	EXP 	text_4: autoDraw = True
+58.9266 	EXP 	text_11: autoDraw = True
+64.3899 	EXP 	text_12: autoDraw = True
+64.4400 	EXP 	text_4: autoDraw = False
+64.4400 	EXP 	text_11: autoDraw = False
+64.8775 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'excumble'), ('letter_o', 0)])
+64.8915 	EXP 	text_12: autoDraw = False
+64.8915 	EXP 	text_4: autoDraw = False
+64.8915 	EXP 	text_11: autoDraw = False
+64.8915 	EXP 	text_12: autoDraw = False
+64.8915 	EXP 	text_4: text = '*** O? ***'
+64.8915 	EXP 	text_11: text = 'excumble'
+64.8915 	EXP 	text_4: autoDraw = True
+64.8915 	EXP 	text_11: autoDraw = True
+70.3726 	EXP 	text_12: autoDraw = True
+70.4064 	EXP 	text_4: autoDraw = False
+70.4064 	EXP 	text_11: autoDraw = False
+70.8593 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'caimatizes'), ('letter_o', 0)])
+70.8747 	EXP 	text_12: autoDraw = False
+70.8747 	EXP 	text_4: autoDraw = False
+70.8747 	EXP 	text_11: autoDraw = False
+70.8747 	EXP 	text_12: autoDraw = False
+70.8747 	EXP 	text_4: text = '*** O? ***'
+70.8747 	EXP 	text_11: text = 'caimatizes'
+70.8747 	EXP 	text_4: autoDraw = True
+70.8747 	EXP 	text_11: autoDraw = True
+76.3549 	EXP 	text_12: autoDraw = True
+76.3881 	EXP 	text_4: autoDraw = False
+76.3881 	EXP 	text_11: autoDraw = False
+76.8431 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'untravents'), ('letter_o', 0)])
+76.8734 	EXP 	text_12: autoDraw = False
+76.8734 	EXP 	text_4: autoDraw = False
+76.8734 	EXP 	text_11: autoDraw = False
+76.8734 	EXP 	text_12: autoDraw = False
+76.8734 	EXP 	text_4: text = '*** O? ***'
+76.8734 	EXP 	text_11: text = 'untravents'
+76.8734 	EXP 	text_4: autoDraw = True
+76.8734 	EXP 	text_11: autoDraw = True
+82.3543 	EXP 	text_12: autoDraw = True
+82.3876 	EXP 	text_4: autoDraw = False
+82.3876 	EXP 	text_11: autoDraw = False
+82.8424 	EXP 	New trial (rep=1, index=0): None
+82.8479 	DEBUG 	Read csv file with pandas: word_pairs.csv
+82.8503 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+82.8514 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+82.8522 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+82.8526 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'tennis'), ('word2', 'chemist')])
+82.8724 	EXP 	text_12: autoDraw = False
+82.8724 	EXP 	text_4: autoDraw = False
+82.8724 	EXP 	text_11: autoDraw = False
+82.8724 	EXP 	text_12: autoDraw = False
+82.8724 	EXP 	text_3: text = 'tennis'
+82.8724 	EXP 	text_6: text = 'chemist'
+82.8724 	EXP 	text_3: autoDraw = True
+86.8489 	EXP 	text_6: autoDraw = True
+88.3537 	EXP 	text_6: autoDraw = False
+88.3537 	EXP 	text_7: autoDraw = True
+88.3870 	EXP 	text_3: autoDraw = False
+88.8423 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'railroad'), ('word2', 'leather')])
+88.8731 	EXP 	text_7: autoDraw = False
+88.8731 	EXP 	text_3: autoDraw = False
+88.8731 	EXP 	text_6: autoDraw = False
+88.8731 	EXP 	text_7: autoDraw = False
+88.8731 	EXP 	text_3: text = 'railroad'
+88.8731 	EXP 	text_6: text = 'leather'
+88.8731 	EXP 	text_3: autoDraw = True
+92.8503 	EXP 	text_6: autoDraw = True
+94.3528 	EXP 	text_6: autoDraw = False
+94.3528 	EXP 	text_7: autoDraw = True
+94.3862 	EXP 	text_3: autoDraw = False
+94.8391 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'engine'), ('word2', 'canoe')])
+94.8544 	EXP 	text_7: autoDraw = False
+94.8544 	EXP 	text_3: autoDraw = False
+94.8544 	EXP 	text_6: autoDraw = False
+94.8544 	EXP 	text_7: autoDraw = False
+94.8544 	EXP 	text_3: text = 'engine'
+94.8544 	EXP 	text_6: text = 'canoe'
+94.8544 	EXP 	text_3: autoDraw = True
+98.8481 	EXP 	text_6: autoDraw = True
+100.3523 	EXP 	text_6: autoDraw = False
+100.3523 	EXP 	text_7: autoDraw = True
+100.3690 	EXP 	text_3: autoDraw = False
+100.8401 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'shopper'), ('word2', 'toaster')])
+100.8709 	EXP 	text_7: autoDraw = False
+100.8709 	EXP 	text_3: autoDraw = False
+100.8709 	EXP 	text_6: autoDraw = False
+100.8709 	EXP 	text_7: autoDraw = False
+100.8709 	EXP 	text_3: text = 'shopper'
+100.8709 	EXP 	text_6: text = 'toaster'
+100.8709 	EXP 	text_3: autoDraw = True
+104.8473 	EXP 	text_6: autoDraw = True
+106.3515 	EXP 	text_6: autoDraw = False
+106.3515 	EXP 	text_7: autoDraw = True
+106.3852 	EXP 	text_3: autoDraw = False
+106.8384 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'timber'), ('word2', 'canyon')])
+106.8707 	EXP 	text_7: autoDraw = False
+106.8707 	EXP 	text_3: autoDraw = False
+106.8707 	EXP 	text_6: autoDraw = False
+106.8707 	EXP 	text_7: autoDraw = False
+106.8707 	EXP 	text_3: text = 'timber'
+106.8707 	EXP 	text_6: text = 'canyon'
+106.8707 	EXP 	text_3: autoDraw = True
+110.8472 	EXP 	text_6: autoDraw = True
+112.3507 	EXP 	text_6: autoDraw = False
+112.3507 	EXP 	text_7: autoDraw = True
+112.3842 	EXP 	text_3: autoDraw = False
+112.8444 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+112.8469 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+112.8479 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+112.8482 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+112.8486 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'acterin'), ('letter_o', 0)])
+112.8695 	EXP 	text_7: autoDraw = False
+112.8695 	EXP 	text_3: autoDraw = False
+112.8695 	EXP 	text_6: autoDraw = False
+112.8695 	EXP 	text_7: autoDraw = False
+112.8695 	EXP 	text_4: text = '*** O? ***'
+112.8695 	EXP 	text_11: text = 'acterin'
+112.8695 	EXP 	text_4: autoDraw = True
+112.8695 	EXP 	text_11: autoDraw = True
+118.3501 	EXP 	text_12: autoDraw = True
+118.3835 	EXP 	text_4: autoDraw = False
+118.3835 	EXP 	text_11: autoDraw = False
+118.8384 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'excumble'), ('letter_o', 0)])
+118.8689 	EXP 	text_12: autoDraw = False
+118.8689 	EXP 	text_4: autoDraw = False
+118.8689 	EXP 	text_11: autoDraw = False
+118.8689 	EXP 	text_12: autoDraw = False
+118.8689 	EXP 	text_4: text = '*** O? ***'
+118.8689 	EXP 	text_11: text = 'excumble'
+118.8689 	EXP 	text_4: autoDraw = True
+118.8689 	EXP 	text_11: autoDraw = True
+124.3497 	EXP 	text_12: autoDraw = True
+124.3831 	EXP 	text_4: autoDraw = False
+124.3831 	EXP 	text_11: autoDraw = False
+124.8388 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'lombined'), ('letter_o', 1)])
+124.8684 	EXP 	text_12: autoDraw = False
+124.8684 	EXP 	text_4: autoDraw = False
+124.8684 	EXP 	text_11: autoDraw = False
+124.8684 	EXP 	text_12: autoDraw = False
+124.8684 	EXP 	text_4: text = '*** O? ***'
+124.8684 	EXP 	text_11: text = 'lombined'
+124.8684 	EXP 	text_4: autoDraw = True
+124.8684 	EXP 	text_11: autoDraw = True
+130.3490 	EXP 	text_12: autoDraw = True
+130.3826 	EXP 	text_4: autoDraw = False
+130.3826 	EXP 	text_11: autoDraw = False
+130.8365 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'untravents'), ('letter_o', 0)])
+130.8677 	EXP 	text_12: autoDraw = False
+130.8677 	EXP 	text_4: autoDraw = False
+130.8677 	EXP 	text_11: autoDraw = False
+130.8677 	EXP 	text_12: autoDraw = False
+130.8677 	EXP 	text_4: text = '*** O? ***'
+130.8677 	EXP 	text_11: text = 'untravents'
+130.8677 	EXP 	text_4: autoDraw = True
+130.8677 	EXP 	text_11: autoDraw = True
+136.3493 	EXP 	text_12: autoDraw = True
+136.3819 	EXP 	text_4: autoDraw = False
+136.3819 	EXP 	text_11: autoDraw = False
+136.8364 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'boycher'), ('letter_o', 1)])
+136.8674 	EXP 	text_12: autoDraw = False
+136.8674 	EXP 	text_4: autoDraw = False
+136.8674 	EXP 	text_11: autoDraw = False
+136.8674 	EXP 	text_12: autoDraw = False
+136.8674 	EXP 	text_4: text = '*** O? ***'
+136.8674 	EXP 	text_11: text = 'boycher'
+136.8674 	EXP 	text_4: autoDraw = True
+136.8674 	EXP 	text_11: autoDraw = True
+142.3480 	EXP 	text_12: autoDraw = True
+142.3829 	EXP 	text_4: autoDraw = False
+142.3829 	EXP 	text_11: autoDraw = False
+142.8345 	EXP 	New trial (rep=2, index=0): None
+142.8416 	DEBUG 	Read csv file with pandas: word_pairs.csv
+142.8442 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+142.8449 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+142.8453 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+142.8457 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'helmet'), ('word2', 'waitress')])
+142.8660 	EXP 	text_12: autoDraw = False
+142.8660 	EXP 	text_4: autoDraw = False
+142.8660 	EXP 	text_11: autoDraw = False
+142.8660 	EXP 	text_12: autoDraw = False
+142.8660 	EXP 	text_3: text = 'helmet'
+142.8660 	EXP 	text_6: text = 'waitress'
+142.8660 	EXP 	text_3: autoDraw = True
+146.8447 	EXP 	text_6: autoDraw = True
+148.3474 	EXP 	text_6: autoDraw = False
+148.3474 	EXP 	text_7: autoDraw = True
+148.3827 	EXP 	text_3: autoDraw = False
+148.8344 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'railroad'), ('word2', 'leather')])
+148.8684 	EXP 	text_7: autoDraw = False
+148.8684 	EXP 	text_3: autoDraw = False
+148.8684 	EXP 	text_6: autoDraw = False
+148.8684 	EXP 	text_7: autoDraw = False
+148.8684 	EXP 	text_3: text = 'railroad'
+148.8684 	EXP 	text_6: text = 'leather'
+148.8684 	EXP 	text_3: autoDraw = True
+152.8426 	EXP 	text_6: autoDraw = True
+154.3482 	EXP 	text_6: autoDraw = False
+154.3482 	EXP 	text_7: autoDraw = True
+154.3802 	EXP 	text_3: autoDraw = False
+154.8344 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'cabin'), ('word2', 'doorway')])
+154.8668 	EXP 	text_7: autoDraw = False
+154.8668 	EXP 	text_3: autoDraw = False
+154.8668 	EXP 	text_6: autoDraw = False
+154.8668 	EXP 	text_7: autoDraw = False
+154.8668 	EXP 	text_3: text = 'cabin'
+154.8668 	EXP 	text_6: text = 'doorway'
+154.8668 	EXP 	text_3: autoDraw = True
+158.8420 	EXP 	text_6: autoDraw = True
+160.3469 	EXP 	text_6: autoDraw = False
+160.3469 	EXP 	text_7: autoDraw = True
+160.3796 	EXP 	text_3: autoDraw = False
+160.8329 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'timber'), ('word2', 'canyon')])
+160.8650 	EXP 	text_7: autoDraw = False
+160.8650 	EXP 	text_3: autoDraw = False
+160.8650 	EXP 	text_6: autoDraw = False
+160.8650 	EXP 	text_7: autoDraw = False
+160.8650 	EXP 	text_3: text = 'timber'
+160.8650 	EXP 	text_6: text = 'canyon'
+160.8650 	EXP 	text_3: autoDraw = True
+164.8414 	EXP 	text_6: autoDraw = True
+166.3450 	EXP 	text_6: autoDraw = False
+166.3450 	EXP 	text_7: autoDraw = True
+166.3807 	EXP 	text_3: autoDraw = False
+166.8324 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'tractor'), ('word2', 'luggage')])
+166.8637 	EXP 	text_7: autoDraw = False
+166.8637 	EXP 	text_3: autoDraw = False
+166.8637 	EXP 	text_6: autoDraw = False
+166.8637 	EXP 	text_7: autoDraw = False
+166.8637 	EXP 	text_3: text = 'tractor'
+166.8637 	EXP 	text_6: text = 'luggage'
+166.8637 	EXP 	text_3: autoDraw = True
+170.8415 	EXP 	text_6: autoDraw = True
+172.3446 	EXP 	text_6: autoDraw = False
+172.3446 	EXP 	text_7: autoDraw = True
+172.3781 	EXP 	text_3: autoDraw = False
+172.8358 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+172.8381 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+172.8398 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+172.8402 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+172.8405 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'phonalle'), ('letter_o', 1)])
+172.8633 	EXP 	text_7: autoDraw = False
+172.8633 	EXP 	text_3: autoDraw = False
+172.8633 	EXP 	text_6: autoDraw = False
+172.8633 	EXP 	text_7: autoDraw = False
+172.8633 	EXP 	text_4: text = '*** O? ***'
+172.8633 	EXP 	text_11: text = 'phonalle'
+172.8633 	EXP 	text_4: autoDraw = True
+172.8633 	EXP 	text_11: autoDraw = True
+178.3438 	EXP 	text_12: autoDraw = True
+178.3773 	EXP 	text_4: autoDraw = False
+178.3773 	EXP 	text_11: autoDraw = False
+178.8316 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'geshlamp'), ('letter_o', 0)])
+178.8633 	EXP 	text_12: autoDraw = False
+178.8633 	EXP 	text_4: autoDraw = False
+178.8633 	EXP 	text_11: autoDraw = False
+178.8633 	EXP 	text_12: autoDraw = False
+178.8633 	EXP 	text_4: text = '*** O? ***'
+178.8633 	EXP 	text_11: text = 'geshlamp'
+178.8633 	EXP 	text_4: autoDraw = True
+178.8633 	EXP 	text_11: autoDraw = True
+184.3264 	EXP 	text_12: autoDraw = True
+184.3771 	EXP 	text_4: autoDraw = False
+184.3771 	EXP 	text_11: autoDraw = False
+184.8141 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'baylory'), ('letter_o', 1)])
+184.8283 	EXP 	text_12: autoDraw = False
+184.8283 	EXP 	text_4: autoDraw = False
+184.8283 	EXP 	text_11: autoDraw = False
+184.8283 	EXP 	text_12: autoDraw = False
+184.8283 	EXP 	text_4: text = '*** O? ***'
+184.8283 	EXP 	text_11: text = 'baylory'
+184.8283 	EXP 	text_4: autoDraw = True
+184.8283 	EXP 	text_11: autoDraw = True
+190.3099 	EXP 	text_12: autoDraw = True
+190.3435 	EXP 	text_4: autoDraw = False
+190.3435 	EXP 	text_11: autoDraw = False
+190.7962 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'thwided'), ('letter_o', 0)])
+190.8108 	EXP 	text_12: autoDraw = False
+190.8108 	EXP 	text_4: autoDraw = False
+190.8108 	EXP 	text_11: autoDraw = False
+190.8108 	EXP 	text_12: autoDraw = False
+190.8108 	EXP 	text_4: text = '*** O? ***'
+190.8108 	EXP 	text_11: text = 'thwided'
+190.8108 	EXP 	text_4: autoDraw = True
+190.8108 	EXP 	text_11: autoDraw = True
+196.2920 	EXP 	text_12: autoDraw = True
+196.3253 	EXP 	text_4: autoDraw = False
+196.3253 	EXP 	text_11: autoDraw = False
+196.7784 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'rousur'), ('letter_o', 1)])
+196.7930 	EXP 	text_12: autoDraw = False
+196.7930 	EXP 	text_4: autoDraw = False
+196.7930 	EXP 	text_11: autoDraw = False
+196.7930 	EXP 	text_12: autoDraw = False
+196.7930 	EXP 	text_4: text = '*** O? ***'
+196.7930 	EXP 	text_11: text = 'rousur'
+196.7930 	EXP 	text_4: autoDraw = True
+196.7930 	EXP 	text_11: autoDraw = True
+202.2745 	EXP 	text_12: autoDraw = True
+202.3084 	EXP 	text_4: autoDraw = False
+202.3084 	EXP 	text_11: autoDraw = False
+202.7623 	EXP 	New trial (rep=3, index=0): None
+202.7670 	DEBUG 	Read csv file with pandas: word_pairs.csv
+202.7710 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+202.7717 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+202.7723 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+202.7726 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'engine'), ('word2', 'canoe')])
+202.7938 	EXP 	text_12: autoDraw = False
+202.7938 	EXP 	text_4: autoDraw = False
+202.7938 	EXP 	text_11: autoDraw = False
+202.7938 	EXP 	text_12: autoDraw = False
+202.7938 	EXP 	text_3: text = 'engine'
+202.7938 	EXP 	text_6: text = 'canoe'
+202.7938 	EXP 	text_3: autoDraw = True
+206.7699 	EXP 	text_6: autoDraw = True
+208.2751 	EXP 	text_6: autoDraw = False
+208.2751 	EXP 	text_7: autoDraw = True
+208.3084 	EXP 	text_3: autoDraw = False
+208.7626 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'helmet'), ('word2', 'waitress')])
+208.7933 	EXP 	text_7: autoDraw = False
+208.7933 	EXP 	text_3: autoDraw = False
+208.7933 	EXP 	text_6: autoDraw = False
+208.7933 	EXP 	text_7: autoDraw = False
+208.7933 	EXP 	text_3: text = 'helmet'
+208.7933 	EXP 	text_6: text = 'waitress'
+208.7933 	EXP 	text_3: autoDraw = True
+212.7691 	EXP 	text_6: autoDraw = True
+214.2733 	EXP 	text_6: autoDraw = False
+214.2733 	EXP 	text_7: autoDraw = True
+214.3078 	EXP 	text_3: autoDraw = False
+214.7613 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'cabinet'), ('word2', 'password')])
+214.7915 	EXP 	text_7: autoDraw = False
+214.7915 	EXP 	text_3: autoDraw = False
+214.7915 	EXP 	text_6: autoDraw = False
+214.7915 	EXP 	text_7: autoDraw = False
+214.7915 	EXP 	text_3: text = 'cabinet'
+214.7915 	EXP 	text_6: text = 'password'
+214.7915 	EXP 	text_3: autoDraw = True
+218.7687 	EXP 	text_6: autoDraw = True
+220.2730 	EXP 	text_6: autoDraw = False
+220.2730 	EXP 	text_7: autoDraw = True
+220.3062 	EXP 	text_3: autoDraw = False
+220.7593 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'tennis'), ('word2', 'chemist')])
+220.7912 	EXP 	text_7: autoDraw = False
+220.7912 	EXP 	text_3: autoDraw = False
+220.7912 	EXP 	text_6: autoDraw = False
+220.7912 	EXP 	text_7: autoDraw = False
+220.7912 	EXP 	text_3: text = 'tennis'
+220.7912 	EXP 	text_6: text = 'chemist'
+220.7912 	EXP 	text_3: autoDraw = True
+224.7678 	EXP 	text_6: autoDraw = True
+226.2721 	EXP 	text_6: autoDraw = False
+226.2721 	EXP 	text_7: autoDraw = True
+226.3055 	EXP 	text_3: autoDraw = False
+226.7605 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'timber'), ('word2', 'canyon')])
+226.7911 	EXP 	text_7: autoDraw = False
+226.7911 	EXP 	text_3: autoDraw = False
+226.7911 	EXP 	text_6: autoDraw = False
+226.7911 	EXP 	text_7: autoDraw = False
+226.7911 	EXP 	text_3: text = 'timber'
+226.7911 	EXP 	text_6: text = 'canyon'
+226.7911 	EXP 	text_3: autoDraw = True
+230.7672 	EXP 	text_6: autoDraw = True
+232.2714 	EXP 	text_6: autoDraw = False
+232.2714 	EXP 	text_7: autoDraw = True
+232.3047 	EXP 	text_3: autoDraw = False
+232.7648 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+232.7673 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+232.7690 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+232.7694 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+232.7698 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'phonalle'), ('letter_o', 1)])
+232.7903 	EXP 	text_7: autoDraw = False
+232.7903 	EXP 	text_3: autoDraw = False
+232.7903 	EXP 	text_6: autoDraw = False
+232.7903 	EXP 	text_7: autoDraw = False
+232.7903 	EXP 	text_4: text = '*** O? ***'
+232.7903 	EXP 	text_11: text = 'phonalle'
+232.7903 	EXP 	text_4: autoDraw = True
+232.7903 	EXP 	text_11: autoDraw = True
+238.2706 	EXP 	text_12: autoDraw = True
+238.3040 	EXP 	text_4: autoDraw = False
+238.3040 	EXP 	text_11: autoDraw = False
+238.7595 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'contle'), ('letter_o', 1)])
+238.7888 	EXP 	text_12: autoDraw = False
+238.7888 	EXP 	text_4: autoDraw = False
+238.7888 	EXP 	text_11: autoDraw = False
+238.7888 	EXP 	text_12: autoDraw = False
+238.7888 	EXP 	text_4: text = '*** O? ***'
+238.7888 	EXP 	text_11: text = 'contle'
+238.7888 	EXP 	text_4: autoDraw = True
+238.7888 	EXP 	text_11: autoDraw = True
+244.2703 	EXP 	text_12: autoDraw = True
+244.3035 	EXP 	text_4: autoDraw = False
+244.3035 	EXP 	text_11: autoDraw = False
+244.7580 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'huggle'), ('letter_o', 0)])
+244.7888 	EXP 	text_12: autoDraw = False
+244.7888 	EXP 	text_4: autoDraw = False
+244.7888 	EXP 	text_11: autoDraw = False
+244.7888 	EXP 	text_12: autoDraw = False
+244.7888 	EXP 	text_4: text = '*** O? ***'
+244.7888 	EXP 	text_11: text = 'huggle'
+244.7888 	EXP 	text_4: autoDraw = True
+244.7888 	EXP 	text_11: autoDraw = True
+250.2697 	EXP 	text_12: autoDraw = True
+250.3029 	EXP 	text_4: autoDraw = False
+250.3029 	EXP 	text_11: autoDraw = False
+250.7564 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'untravents'), ('letter_o', 0)])
+250.7881 	EXP 	text_12: autoDraw = False
+250.7881 	EXP 	text_4: autoDraw = False
+250.7881 	EXP 	text_11: autoDraw = False
+250.7881 	EXP 	text_12: autoDraw = False
+250.7881 	EXP 	text_4: text = '*** O? ***'
+250.7881 	EXP 	text_11: text = 'untravents'
+250.7881 	EXP 	text_4: autoDraw = True
+250.7881 	EXP 	text_11: autoDraw = True
+256.2685 	EXP 	text_12: autoDraw = True
+256.3020 	EXP 	text_4: autoDraw = False
+256.3020 	EXP 	text_11: autoDraw = False
+256.7558 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'kastat'), ('letter_o', 0)])
+256.7701 	EXP 	text_12: autoDraw = False
+256.7701 	EXP 	text_4: autoDraw = False
+256.7701 	EXP 	text_11: autoDraw = False
+256.7701 	EXP 	text_12: autoDraw = False
+256.7701 	EXP 	text_4: text = '*** O? ***'
+256.7701 	EXP 	text_11: text = 'kastat'
+256.7701 	EXP 	text_4: autoDraw = True
+256.7701 	EXP 	text_11: autoDraw = True
+262.2510 	EXP 	text_12: autoDraw = True
+262.2846 	EXP 	text_4: autoDraw = False
+262.2846 	EXP 	text_11: autoDraw = False
+262.7403 	EXP 	New trial (rep=4, index=0): None
+262.7456 	DEBUG 	Read csv file with pandas: word_pairs.csv
+262.7476 	DEBUG 	Clearing unnamed columns from word_pairs.csv
+262.7483 	EXP 	Imported word_pairs.csv as conditions, 5 conditions, 2 params
+262.7486 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+262.7489 	EXP 	New trial (rep=0, index=0): OrderedDict([('word1', 'lotion'), ('word2', 'motel')])
+262.7700 	EXP 	text_12: autoDraw = False
+262.7700 	EXP 	text_4: autoDraw = False
+262.7700 	EXP 	text_11: autoDraw = False
+262.7700 	EXP 	text_12: autoDraw = False
+262.7700 	EXP 	text_3: text = 'lotion'
+262.7700 	EXP 	text_6: text = 'motel'
+262.7700 	EXP 	text_3: autoDraw = True
+266.7478 	EXP 	text_6: autoDraw = True
+268.2507 	EXP 	text_6: autoDraw = False
+268.2507 	EXP 	text_7: autoDraw = True
+268.2838 	EXP 	text_3: autoDraw = False
+268.7387 	EXP 	New trial (rep=0, index=1): OrderedDict([('word1', 'railroad'), ('word2', 'leather')])
+268.7692 	EXP 	text_7: autoDraw = False
+268.7692 	EXP 	text_3: autoDraw = False
+268.7692 	EXP 	text_6: autoDraw = False
+268.7692 	EXP 	text_7: autoDraw = False
+268.7692 	EXP 	text_3: text = 'railroad'
+268.7692 	EXP 	text_6: text = 'leather'
+268.7692 	EXP 	text_3: autoDraw = True
+272.7469 	EXP 	text_6: autoDraw = True
+274.2500 	EXP 	text_6: autoDraw = False
+274.2500 	EXP 	text_7: autoDraw = True
+274.2836 	EXP 	text_3: autoDraw = False
+274.7376 	EXP 	New trial (rep=0, index=2): OrderedDict([('word1', 'cabinet'), ('word2', 'password')])
+274.7688 	EXP 	text_7: autoDraw = False
+274.7688 	EXP 	text_3: autoDraw = False
+274.7688 	EXP 	text_6: autoDraw = False
+274.7688 	EXP 	text_7: autoDraw = False
+274.7688 	EXP 	text_3: text = 'cabinet'
+274.7688 	EXP 	text_6: text = 'password'
+274.7688 	EXP 	text_3: autoDraw = True
+278.7463 	EXP 	text_6: autoDraw = True
+280.2489 	EXP 	text_6: autoDraw = False
+280.2489 	EXP 	text_7: autoDraw = True
+280.2834 	EXP 	text_3: autoDraw = False
+280.7370 	EXP 	New trial (rep=0, index=3): OrderedDict([('word1', 'tennis'), ('word2', 'chemist')])
+280.7683 	EXP 	text_7: autoDraw = False
+280.7683 	EXP 	text_3: autoDraw = False
+280.7683 	EXP 	text_6: autoDraw = False
+280.7683 	EXP 	text_7: autoDraw = False
+280.7683 	EXP 	text_3: text = 'tennis'
+280.7683 	EXP 	text_6: text = 'chemist'
+280.7683 	EXP 	text_3: autoDraw = True
+284.7463 	EXP 	text_6: autoDraw = True
+286.2482 	EXP 	text_6: autoDraw = False
+286.2482 	EXP 	text_7: autoDraw = True
+286.2817 	EXP 	text_3: autoDraw = False
+286.7339 	EXP 	New trial (rep=0, index=4): OrderedDict([('word1', 'shopper'), ('word2', 'toaster')])
+286.7668 	EXP 	text_7: autoDraw = False
+286.7668 	EXP 	text_3: autoDraw = False
+286.7668 	EXP 	text_6: autoDraw = False
+286.7668 	EXP 	text_7: autoDraw = False
+286.7668 	EXP 	text_3: text = 'shopper'
+286.7668 	EXP 	text_6: text = 'toaster'
+286.7668 	EXP 	text_3: autoDraw = True
+290.7445 	EXP 	text_6: autoDraw = True
+292.2482 	EXP 	text_6: autoDraw = False
+292.2482 	EXP 	text_7: autoDraw = True
+292.2825 	EXP 	text_3: autoDraw = False
+292.7384 	DEBUG 	Read csv file with pandas: nonsense_words.csv
+292.7412 	DEBUG 	Clearing unnamed columns from nonsense_words.csv
+292.7428 	EXP 	Imported nonsense_words.csv as conditions, 5 conditions, 2 params
+292.7433 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+292.7438 	EXP 	New trial (rep=0, index=0): OrderedDict([('nonword', 'boycher'), ('letter_o', 1)])
+292.7670 	EXP 	text_7: autoDraw = False
+292.7670 	EXP 	text_3: autoDraw = False
+292.7670 	EXP 	text_6: autoDraw = False
+292.7670 	EXP 	text_7: autoDraw = False
+292.7670 	EXP 	text_4: text = '*** O? ***'
+292.7670 	EXP 	text_11: text = 'boycher'
+292.7670 	EXP 	text_4: autoDraw = True
+292.7670 	EXP 	text_11: autoDraw = True
+298.2478 	EXP 	text_12: autoDraw = True
+298.2805 	EXP 	text_4: autoDraw = False
+298.2805 	EXP 	text_11: autoDraw = False
+298.7343 	EXP 	New trial (rep=0, index=1): OrderedDict([('nonword', 'huggle'), ('letter_o', 0)])
+298.7490 	EXP 	text_12: autoDraw = False
+298.7490 	EXP 	text_4: autoDraw = False
+298.7490 	EXP 	text_11: autoDraw = False
+298.7490 	EXP 	text_12: autoDraw = False
+298.7490 	EXP 	text_4: text = '*** O? ***'
+298.7490 	EXP 	text_11: text = 'huggle'
+298.7490 	EXP 	text_4: autoDraw = True
+298.7490 	EXP 	text_11: autoDraw = True
+304.2305 	EXP 	text_12: autoDraw = True
+304.2640 	EXP 	text_4: autoDraw = False
+304.2640 	EXP 	text_11: autoDraw = False
+304.7165 	EXP 	New trial (rep=0, index=2): OrderedDict([('nonword', 'ijanks'), ('letter_o', 0)])
+304.7483 	EXP 	text_12: autoDraw = False
+304.7483 	EXP 	text_4: autoDraw = False
+304.7483 	EXP 	text_11: autoDraw = False
+304.7483 	EXP 	text_12: autoDraw = False
+304.7483 	EXP 	text_4: text = '*** O? ***'
+304.7483 	EXP 	text_11: text = 'ijanks'
+304.7483 	EXP 	text_4: autoDraw = True
+304.7483 	EXP 	text_11: autoDraw = True
+310.2299 	EXP 	text_12: autoDraw = True
+310.2634 	EXP 	text_4: autoDraw = False
+310.2634 	EXP 	text_11: autoDraw = False
+310.7183 	EXP 	New trial (rep=0, index=3): OrderedDict([('nonword', 'thwided'), ('letter_o', 0)])
+310.7492 	EXP 	text_12: autoDraw = False
+310.7492 	EXP 	text_4: autoDraw = False
+310.7492 	EXP 	text_11: autoDraw = False
+310.7492 	EXP 	text_12: autoDraw = False
+310.7492 	EXP 	text_4: text = '*** O? ***'
+310.7492 	EXP 	text_11: text = 'thwided'
+310.7492 	EXP 	text_4: autoDraw = True
+310.7492 	EXP 	text_11: autoDraw = True
+316.2308 	EXP 	text_12: autoDraw = True
+316.2632 	EXP 	text_4: autoDraw = False
+316.2632 	EXP 	text_11: autoDraw = False
+316.7160 	EXP 	New trial (rep=0, index=4): OrderedDict([('nonword', 'acterin'), ('letter_o', 0)])
+316.7485 	EXP 	text_12: autoDraw = False
+316.7485 	EXP 	text_4: autoDraw = False
+316.7485 	EXP 	text_11: autoDraw = False
+316.7485 	EXP 	text_12: autoDraw = False
+316.7485 	EXP 	text_4: text = '*** O? ***'
+316.7485 	EXP 	text_11: text = 'acterin'
+316.7485 	EXP 	text_4: autoDraw = True
+316.7485 	EXP 	text_11: autoDraw = True
+322.2125 	EXP 	text_12: autoDraw = True
+322.2626 	EXP 	text_4: autoDraw = False
+322.2626 	EXP 	text_11: autoDraw = False
+322.7141 	EXP 	text_12: autoDraw = False
+322.7141 	EXP 	text_4: autoDraw = False
+322.7141 	EXP 	text_11: autoDraw = False
+322.7141 	EXP 	text_12: autoDraw = False
+322.7141 	EXP 	text_5: autoDraw = True
+323.7162 	EXP 	text_5: autoDraw = False
+323.7162 	EXP 	text_5: autoDraw = False
+324.1052 	INFO 	saved data to '/Volumes/G-DRIVE/word_pair_task/data/test/test_recall_2020_Oct_09_1103.csv'
+324.1089 	INFO 	saved data to /Volumes/G-DRIVE/word_pair_task/data/test/test_recall_2020_Oct_09_1103.psydat
+324.1245 	EXP 	window1: mouseVisible = True
+324.1249 	DEBUG 	Saving data for recall ExperimentHandler
